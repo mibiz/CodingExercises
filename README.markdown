@@ -44,8 +44,9 @@ The input is a text file containing a grid of comma-separated integers. The prog
 
 Triangle Puzzle
 ---------------
-Similar to the [Frog Mathematician problem](The Frog Mathematician Problem). Starting at the top of the triangle and moving to 
-adjacent numbers on the row below, the maximum total from top to bottom is 27.
+Similar to the [Frog Mathematician problem](#the-frog-mathematician-problem). 
+Starting at the top of the triangle and moving to adjacent numbers on the row below, 
+the maximum total from top to bottom is 27.
 
 	      *5*
 		*9*  6
