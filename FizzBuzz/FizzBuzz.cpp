@@ -7,7 +7,7 @@ using namespace std;
  * For numbers which are multiples of both three and five it prints "FizzBuzz".
  */
 int main(int argc, char** argv) {
-	int i;
+    int i;
     int mul_three = 3;
     int mul_five = 5;
     
