@@ -41,3 +41,18 @@ The input is a text file containing a grid of comma-separated integers. The prog
 1. The maximum sum of the optimal path
 2. The starting position from the top row
 3. The ending point on  the bottom row
+
+Triangle Puzzle
+---------------
+Similar to the Frog Mathematician problem. Starting at the top of the triangle and moving to 
+adjacent numbers on the row below, the maximum total from top to bottom is 27.
+
+	      *5*
+		*9*  6
+	  4   *6*  8
+	0   *7*  1   5
+
+Therefore 5 + 9 + 6 + 7 = 27.
+
+The program calculates the maximum total from top to bottom in a text file containing a triangle 
+of space-separated integers.
