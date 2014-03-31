@@ -37,6 +37,7 @@ starting point 2 (value 6).  Watch out for values on the extreme left and right.
 	*10*	*5*		*12*
 
 The input is a text file containing a grid of comma-separated integers. The program returns:
+
 1. The maximum sum of the optimal path
 2. The starting position from the top row
 3. The ending point on  the bottom row
